@@ -1,4 +1,4 @@
-package com.mt.lit;
+package com.mt.git;
 
 public class Multiplication {
 	public static void main(String[] args) {
