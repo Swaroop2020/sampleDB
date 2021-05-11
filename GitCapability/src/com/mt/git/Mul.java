@@ -2,7 +2,9 @@ package com.mt.git;
 
 public class Mul {
 	public static void main(String[] args) {
-		int a=10,b=20;
-		System.out.println("mul result : "+a*b);
+
+		int a=10,b=20,c=30,d=40,e=50;
+		System.out.println("mul : "+a*b*c*d*e);
+
 	}
 }
